@@ -1,0 +1,7 @@
+# Scraped output belongs to the client - never commit it
+results/
+*.csv
+
+__pycache__/
+*.pyc
+.venv/
